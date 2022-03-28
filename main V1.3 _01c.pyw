@@ -308,3 +308,10 @@ try:
     mainloop()
 except AttributeError:
     pass
+
+"""
+预告：
+    下一个版本将会更新交互式开发环境（现在有按钮，但是没有用处）
+        交互式开发环境代码非原创，来自CSDN。
+"""
+
