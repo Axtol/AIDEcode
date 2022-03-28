@@ -1,4 +1,4 @@
-# AtEp是一个适合初学者使用的Python IDE
+# AIDE是一个适合初学者使用的Python IDE
 平时随便写的代码存放的地方
 我决定在这里公开源代码，如果只想获得文件，可以去另一个地方
 # 求求了，不要抄袭o(TヘTo)
@@ -8,11 +8,11 @@
 虽然是有一点异想天开……
 
 # En-us
-# Atep is a python ide suitable for beginners
+# AIDE is a python ide suitable for beginners
 Where the code written casually at ordinary times is stored
-I decided to open the source code here. If I just want to get the file, I can go to another place
-# Please, don't copy o (t ヘ to)
+I decided to open the source code here. If you just want to get the file, can go to another place
+# Please, don't copy o(TヘTo)
 If I plagiarize, I will defend my rights!
-# Beep: as a programmer, how can I give you programs you can't afford?
+# Beep: as a programmer, how can I give you programs you can't run?
 Its design concept is to surpass Python idle. Therefore, I will improve it better.
 Although it is a little whimsical…
