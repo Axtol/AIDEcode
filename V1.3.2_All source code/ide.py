@@ -19,6 +19,9 @@ def c():
 
 
 def e():
+    """
+    打开交互模式
+    """
     try:
         c()
     except IndexError:
