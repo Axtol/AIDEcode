@@ -35,7 +35,7 @@ except FileExistsError:
     pass
 
 root = Tk()
-root.title("Text editor based on Tcl/Tk Python Edition 1.3")  # 标题
+root.title("Text editor based on Tcl/Tk Python Edition 1.3.2")  # 标题
 root.state("zoomed")  # 最大化
 
 sb = Scrollbar(root)
