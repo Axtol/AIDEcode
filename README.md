@@ -7,6 +7,8 @@
 它的设计理念是要超过python IDLE。所以，我会把它完善的更好。
 虽然是有一点异想天开……
 
+# 心之所向，勇往无前！
+
 # En-us
 # AIDE is a python ide suitable for beginners
 Where the code written casually at ordinary times is stored
